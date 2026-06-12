@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0299999713897705
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 2,
+            "purity": 0.75
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 48,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 110,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 79,
+        "compassion": 62,
+        "courage": 60,
+        "curiosity": 42,
+        "current_goal": "Meditate",
+        "diligence": 71,
+        "greed": 37,
+        "honor": 24,
+        "loyalty": 66,
+        "pride": 48,
+        "temper": 91
+    },
+    "social": {
+        "contribution_points": 103,
+        "loyalty": 68,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_207971"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.149999976158142
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 2,
+            "purity": 0.5799999833106995
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 35,
+        "gender": "Female",
+        "given_name": "Lan",
+        "lifespan": 92,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 86,
+        "compassion": 94,
+        "courage": 65,
+        "curiosity": 50,
+        "current_goal": "Meditate",
+        "diligence": 49,
+        "greed": 47,
+        "honor": 50,
+        "loyalty": 44,
+        "pride": 76,
+        "temper": 83
+    },
+    "social": {
+        "contribution_points": 66,
+        "loyalty": 45,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_608624"
+}

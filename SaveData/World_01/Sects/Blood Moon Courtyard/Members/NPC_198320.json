@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8299999833106995
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 1,
+            "purity": 0.7699999809265137
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 18,
+        "gender": "Female",
+        "given_name": "Lan",
+        "lifespan": 113,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 13,
+        "compassion": 10,
+        "courage": 35,
+        "curiosity": 85,
+        "current_goal": "Meditate",
+        "diligence": 66,
+        "greed": 85,
+        "honor": 64,
+        "loyalty": 58,
+        "pride": 80,
+        "temper": 42
+    },
+    "social": {
+        "contribution_points": 250,
+        "loyalty": 45,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_198320"
+}

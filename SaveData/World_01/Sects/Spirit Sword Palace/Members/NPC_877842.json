@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.100000023841858
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 8,
+            "purity": 0.8199999928474426
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 66,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 83,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 50,
+        "compassion": 95,
+        "courage": 26,
+        "curiosity": 4,
+        "current_goal": "Meditate",
+        "diligence": 89,
+        "greed": 0,
+        "honor": 77,
+        "loyalty": 51,
+        "pride": 6,
+        "temper": 14
+    },
+    "social": {
+        "contribution_points": 111,
+        "loyalty": 57,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_877842"
+}

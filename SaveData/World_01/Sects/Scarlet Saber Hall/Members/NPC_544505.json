@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8799999952316284
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 4,
+            "purity": 0.5299999713897705
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 37,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 103,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 95,
+        "compassion": 40,
+        "courage": 20,
+        "curiosity": 5,
+        "current_goal": "Meditate",
+        "diligence": 90,
+        "greed": 55,
+        "honor": 31,
+        "loyalty": 66,
+        "pride": 70,
+        "temper": 60
+    },
+    "social": {
+        "contribution_points": 78,
+        "loyalty": 46,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_544505"
+}

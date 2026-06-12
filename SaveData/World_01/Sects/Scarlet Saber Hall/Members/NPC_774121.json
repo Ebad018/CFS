@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.100000023841858
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 7,
+            "purity": 0.6899999976158142
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 49,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 86,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 84,
+        "compassion": 35,
+        "courage": 99,
+        "curiosity": 73,
+        "current_goal": "Meditate",
+        "diligence": 6,
+        "greed": 59,
+        "honor": 12,
+        "loyalty": 59,
+        "pride": 45,
+        "temper": 14
+    },
+    "social": {
+        "contribution_points": 489,
+        "loyalty": 68,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_774121"
+}

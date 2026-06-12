@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1800000667572021
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 5,
+            "purity": 0.6800000071525574
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 62,
+        "gender": "Male",
+        "given_name": "Huo",
+        "lifespan": 104,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 85,
+        "compassion": 49,
+        "courage": 25,
+        "curiosity": 77,
+        "current_goal": "Meditate",
+        "diligence": 7,
+        "greed": 81,
+        "honor": 85,
+        "loyalty": 36,
+        "pride": 91,
+        "temper": 33
+    },
+    "social": {
+        "contribution_points": 302,
+        "loyalty": 64,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_440734"
+}

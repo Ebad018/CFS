@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.800000011920929
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 8,
+            "purity": 0.9200000166893005
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 32,
+        "gender": "Female",
+        "given_name": "Xin",
+        "lifespan": 90,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 85,
+        "compassion": 15,
+        "courage": 76,
+        "curiosity": 73,
+        "current_goal": "Meditate",
+        "diligence": 1,
+        "greed": 6,
+        "honor": 91,
+        "loyalty": 35,
+        "pride": 12,
+        "temper": 73
+    },
+    "social": {
+        "contribution_points": 493,
+        "loyalty": 64,
+        "morality": 0,
+        "network": [],
+        "rank": "ELDER",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_298025"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0700000524520874
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 8,
+            "purity": 0.6899999976158142
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 59,
+        "gender": "Male",
+        "given_name": "Chen",
+        "lifespan": 99,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 94,
+        "compassion": 3,
+        "courage": 2,
+        "curiosity": 83,
+        "current_goal": "Meditate",
+        "diligence": 21,
+        "greed": 87,
+        "honor": 36,
+        "loyalty": 46,
+        "pride": 100,
+        "temper": 54
+    },
+    "social": {
+        "contribution_points": 141,
+        "loyalty": 65,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_479186"
+}

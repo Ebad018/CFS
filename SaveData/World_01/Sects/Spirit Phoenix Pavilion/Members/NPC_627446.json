@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.2000000476837158
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 4,
+            "purity": 0.6600000262260437
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 27,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 104,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 84,
+        "compassion": 92,
+        "courage": 15,
+        "curiosity": 100,
+        "current_goal": "Meditate",
+        "diligence": 79,
+        "greed": 33,
+        "honor": 14,
+        "loyalty": 52,
+        "pride": 47,
+        "temper": 15
+    },
+    "social": {
+        "contribution_points": 293,
+        "loyalty": 64,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_627446"
+}

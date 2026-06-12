@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1200000047683716
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 4,
+            "purity": 0.9100000262260437
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 36,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 82,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 71,
+        "compassion": 90,
+        "courage": 7,
+        "curiosity": 6,
+        "current_goal": "Meditate",
+        "diligence": 82,
+        "greed": 3,
+        "honor": 66,
+        "loyalty": 54,
+        "pride": 85,
+        "temper": 27
+    },
+    "social": {
+        "contribution_points": 123,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_671695"
+}

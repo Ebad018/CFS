@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8100000023841858
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 6,
+            "purity": 0.949999988079071
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 44,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 114,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 0,
+        "compassion": 92,
+        "courage": 44,
+        "curiosity": 2,
+        "current_goal": "Meditate",
+        "diligence": 1,
+        "greed": 22,
+        "honor": 24,
+        "loyalty": 56,
+        "pride": 50,
+        "temper": 91
+    },
+    "social": {
+        "contribution_points": 54,
+        "loyalty": 55,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_342125"
+}

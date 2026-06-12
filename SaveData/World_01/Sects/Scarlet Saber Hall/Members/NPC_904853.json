@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0199999809265137
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 4,
+            "purity": 0.9399999976158142
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 34,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 81,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 19,
+        "compassion": 97,
+        "courage": 17,
+        "curiosity": 31,
+        "current_goal": "Meditate",
+        "diligence": 60,
+        "greed": 12,
+        "honor": 56,
+        "loyalty": 31,
+        "pride": 59,
+        "temper": 17
+    },
+    "social": {
+        "contribution_points": 221,
+        "loyalty": 45,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_904853"
+}

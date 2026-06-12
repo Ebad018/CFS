@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.800000011920929
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 2,
+            "purity": 0.7200000286102295
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 66,
+        "gender": "Male",
+        "given_name": "Chen",
+        "lifespan": 94,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 79,
+        "compassion": 37,
+        "courage": 71,
+        "curiosity": 60,
+        "current_goal": "Meditate",
+        "diligence": 71,
+        "greed": 77,
+        "honor": 68,
+        "loyalty": 60,
+        "pride": 32,
+        "temper": 5
+    },
+    "social": {
+        "contribution_points": 383,
+        "loyalty": 33,
+        "morality": 0,
+        "network": [],
+        "rank": "ELDER",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_734280"
+}

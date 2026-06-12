@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9300000071525574
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 1,
+            "purity": 0.8299999833106995
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 66,
+        "gender": "Female",
+        "given_name": "Lan",
+        "lifespan": 110,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 66,
+        "compassion": 34,
+        "courage": 65,
+        "curiosity": 13,
+        "current_goal": "Meditate",
+        "diligence": 73,
+        "greed": 3,
+        "honor": 71,
+        "loyalty": 49,
+        "pride": 38,
+        "temper": 47
+    },
+    "social": {
+        "contribution_points": 8,
+        "loyalty": 32,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_545461"
+}

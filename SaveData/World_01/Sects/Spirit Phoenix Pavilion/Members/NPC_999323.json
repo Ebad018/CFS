@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8299999833106995
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 1,
+            "purity": 0.949999988079071
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 44,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 119,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 6,
+        "compassion": 48,
+        "courage": 84,
+        "curiosity": 37,
+        "current_goal": "Meditate",
+        "diligence": 68,
+        "greed": 73,
+        "honor": 57,
+        "loyalty": 32,
+        "pride": 9,
+        "temper": 60
+    },
+    "social": {
+        "contribution_points": 380,
+        "loyalty": 60,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_999323"
+}

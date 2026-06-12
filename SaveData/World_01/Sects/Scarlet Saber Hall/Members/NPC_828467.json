@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 6,
+            "purity": 0.6800000071525574
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 49,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 113,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 42,
+        "compassion": 21,
+        "courage": 35,
+        "curiosity": 0,
+        "current_goal": "Meditate",
+        "diligence": 74,
+        "greed": 47,
+        "honor": 1,
+        "loyalty": 53,
+        "pride": 48,
+        "temper": 49
+    },
+    "social": {
+        "contribution_points": 302,
+        "loyalty": 43,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_828467"
+}

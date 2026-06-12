@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8199999928474426
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 9,
+            "purity": 1.0
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 51,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 88,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 35,
+        "compassion": 15,
+        "courage": 79,
+        "curiosity": 97,
+        "current_goal": "Meditate",
+        "diligence": 74,
+        "greed": 48,
+        "honor": 20,
+        "loyalty": 66,
+        "pride": 40,
+        "temper": 67
+    },
+    "social": {
+        "contribution_points": 422,
+        "loyalty": 34,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_538099"
+}

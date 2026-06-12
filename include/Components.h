@@ -70,9 +70,10 @@ struct RenderComponent {
     char symbol = '?';
     uint32_t color = 0xFFFFFFFF;
     std::string name = "Unknown";
+    std::string title;          // Earned epithet: "Champion", "the Unyielding"...
     bool visible_on_map = true;
 
-    NLOHMANN_DEFINE_TYPE_INTRUSIVE(RenderComponent, symbol, color, name, visible_on_map)
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE_WITH_DEFAULT(RenderComponent, symbol, color, name, title, visible_on_map)
 };
 
 struct ResourceComponent {
@@ -143,8 +144,11 @@ struct InventoryComponent {
     int spirit_stones = 0;
     int contribution_points = 0;
     int sect_prestige = 0;
+    
+    // Phase 1: Track generic materials and food
+    std::map<std::string, int> resources; // e.g. "Food": 10, "Beast_Hide": 2, "Wood": 50
 
-    NLOHMANN_DEFINE_TYPE_INTRUSIVE(InventoryComponent, items, spirit_stones, contribution_points, sect_prestige)
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE(InventoryComponent, items, spirit_stones, contribution_points, sect_prestige, resources)
 };
 
 struct SectResourceComponent {
@@ -202,6 +206,13 @@ struct SkillsComponent {
     NLOHMANN_DEFINE_TYPE_INTRUSIVE(SkillsComponent, active_method_id, known_skills, mastery_level)
 };
 
+struct SkillSetComponent {
+    std::map<std::string, int> skills; // e.g. "Forging" -> 5
+    std::map<std::string, int> xp;     // Progress toward the next level of each skill
+
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE_WITH_DEFAULT(SkillSetComponent, skills, xp)
+};
+
 struct RelationComponent {
     struct Relationship {
         int target_entity_id;
@@ -242,4 +253,73 @@ struct PrecisePositionComponent {
     float y = 0.0f;
 
     NLOHMANN_DEFINE_TYPE_INTRUSIVE(PrecisePositionComponent, x, y)
+};
+
+// --- Phase 1: Town & Simulation Components ---
+
+struct TownComponent {
+    std::string name = "Nameless Town";
+    int population = 0;
+    int wealth = 0;
+    int food_reserves = 0;
+    int defense_rating = 0;
+
+    // Fortress-mode stockpile
+    int wood = 0;
+    int stone = 0;
+    int morale = 50;     // 0-100 settlement-wide mood
+    int mayor_id = -1;   // Elected leader entity, -1 = none
+
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE_WITH_DEFAULT(TownComponent, name, population, wealth, food_reserves, defense_rating, wood, stone, morale, mayor_id)
+};
+
+// Assigned daily labor. The sim executes the job every day tick.
+struct JobComponent {
+    std::string job = "Idle"; // Farmer, Forager, Woodcutter, Miner, Builder, Guard, Healer, Cultivator, Idle
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE_WITH_DEFAULT(JobComponent, job)
+};
+
+// Personal needs tracked per being, drives morale and starvation.
+struct NeedsComponent {
+    int hunger = 0;      // Days without food; > 3 starts starvation damage
+    int morale = 50;     // 0-100 personal mood
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE_WITH_DEFAULT(NeedsComponent, hunger, morale)
+};
+
+struct BuildingComponent {
+    std::string type = "Cottage"; // "Cottage", "Farm", "Blacksmith", etc.
+    int owner_id = -1; // Character ID or Clan ID
+    int durability = 100;
+    int max_durability = 100;
+    std::vector<int> history_events; // Event IDs
+
+    // Construction: builders reduce build_days_left each day until finished
+    bool under_construction = false;
+    int build_days_left = 0;
+
+    // Some buildings store items (Vaults, Granaries)
+    std::vector<InventoryComponent::ItemInstance> inventory;
+
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE_WITH_DEFAULT(BuildingComponent, type, owner_id, durability, max_durability, history_events, under_construction, build_days_left, inventory)
+};
+
+struct ClanComponent {
+    std::string name = "Unknown Clan";
+    int founder_id = -1;
+    int leader_id = -1;
+    int prestige = 0;
+    int wealth = 0;
+    std::vector<int> member_ids;
+    std::vector<int> property_ids; // Building IDs
+
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE(ClanComponent, name, founder_id, leader_id, prestige, wealth, member_ids, property_ids)
+};
+
+struct GoalComponent {
+    std::string goal_type = "Survive"; // "Survive", "Wealth", "Power", "Revenge", "Crafting"
+    int target_entity_id = -1; // Who or what the goal is focused on
+    int motivation_event_id = -1; // Why do they want this? (Links to History Event)
+    int priority = 1;
+
+    NLOHMANN_DEFINE_TYPE_INTRUSIVE(GoalComponent, goal_type, target_entity_id, motivation_event_id, priority)
 };

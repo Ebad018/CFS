@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.0800000429153442
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 3,
+            "purity": 0.8100000023841858
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 58,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 106,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 30,
+        "compassion": 100,
+        "courage": 99,
+        "curiosity": 1,
+        "current_goal": "Meditate",
+        "diligence": 37,
+        "greed": 38,
+        "honor": 74,
+        "loyalty": 66,
+        "pride": 92,
+        "temper": 34
+    },
+    "social": {
+        "contribution_points": 259,
+        "loyalty": 67,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_758322"
+}

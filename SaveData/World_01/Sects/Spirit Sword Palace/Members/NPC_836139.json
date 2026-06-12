@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8199999928474426
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 5,
+            "purity": 0.7400000095367432
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 58,
+        "gender": "Female",
+        "given_name": "Ling",
+        "lifespan": 120,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 77,
+        "compassion": 37,
+        "courage": 47,
+        "curiosity": 15,
+        "current_goal": "Meditate",
+        "diligence": 36,
+        "greed": 34,
+        "honor": 63,
+        "loyalty": 60,
+        "pride": 63,
+        "temper": 20
+    },
+    "social": {
+        "contribution_points": 348,
+        "loyalty": 35,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_836139"
+}

@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8100000023841858
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 3,
+            "purity": 0.9700000286102295
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 24,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 104,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 10,
+        "compassion": 10,
+        "courage": 2,
+        "curiosity": 79,
+        "current_goal": "Meditate",
+        "diligence": 75,
+        "greed": 3,
+        "honor": 21,
+        "loyalty": 59,
+        "pride": 32,
+        "temper": 56
+    },
+    "social": {
+        "contribution_points": 487,
+        "loyalty": 53,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_129422"
+}

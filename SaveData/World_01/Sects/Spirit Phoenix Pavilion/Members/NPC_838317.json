@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8400000333786011
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 6,
+            "purity": 0.6399999856948853
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 54,
+        "gender": "Male",
+        "given_name": "Lei",
+        "lifespan": 109,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 29,
+        "compassion": 40,
+        "courage": 52,
+        "curiosity": 47,
+        "current_goal": "Meditate",
+        "diligence": 21,
+        "greed": 16,
+        "honor": 51,
+        "loyalty": 47,
+        "pride": 71,
+        "temper": 45
+    },
+    "social": {
+        "contribution_points": 318,
+        "loyalty": 51,
+        "morality": 0,
+        "network": [],
+        "rank": "ELDER",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_838317"
+}

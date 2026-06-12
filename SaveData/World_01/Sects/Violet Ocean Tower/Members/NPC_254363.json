@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9200000166893005
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 9,
+            "purity": 0.9900000095367432
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 38,
+        "gender": "Male",
+        "given_name": "Huo",
+        "lifespan": 106,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 39,
+        "compassion": 60,
+        "courage": 70,
+        "curiosity": 89,
+        "current_goal": "Meditate",
+        "diligence": 9,
+        "greed": 5,
+        "honor": 58,
+        "loyalty": 68,
+        "pride": 3,
+        "temper": 55
+    },
+    "social": {
+        "contribution_points": 179,
+        "loyalty": 63,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_254363"
+}

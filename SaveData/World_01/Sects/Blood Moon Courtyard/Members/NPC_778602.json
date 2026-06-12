@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8500000238418579
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 3,
+            "purity": 0.6399999856948853
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 20,
+        "gender": "Female",
+        "given_name": "Qing",
+        "lifespan": 82,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 52,
+        "compassion": 84,
+        "courage": 67,
+        "curiosity": 67,
+        "current_goal": "Meditate",
+        "diligence": 18,
+        "greed": 59,
+        "honor": 72,
+        "loyalty": 51,
+        "pride": 63,
+        "temper": 40
+    },
+    "social": {
+        "contribution_points": 305,
+        "loyalty": 33,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_778602"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.949999988079071
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 8,
+            "purity": 0.8199999928474426
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 44,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 86,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 88,
+        "compassion": 45,
+        "courage": 69,
+        "curiosity": 19,
+        "current_goal": "Meditate",
+        "diligence": 84,
+        "greed": 13,
+        "honor": 2,
+        "loyalty": 37,
+        "pride": 93,
+        "temper": 87
+    },
+    "social": {
+        "contribution_points": 18,
+        "loyalty": 41,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_232125"
+}

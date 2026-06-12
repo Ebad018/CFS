@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1699999570846558
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 7,
+            "purity": 0.550000011920929
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 23,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 94,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 50,
+        "compassion": 40,
+        "courage": 28,
+        "curiosity": 2,
+        "current_goal": "Meditate",
+        "diligence": 86,
+        "greed": 80,
+        "honor": 29,
+        "loyalty": 57,
+        "pride": 36,
+        "temper": 100
+    },
+    "social": {
+        "contribution_points": 369,
+        "loyalty": 68,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_121334"
+}

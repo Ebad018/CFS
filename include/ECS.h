@@ -1,5 +1,6 @@
 #pragma once
 #include "Components.h"
+#include "Body.h"
 #include <vector>
 #include <map>
 #include <optional>
@@ -30,7 +31,19 @@ public:
     std::map<int, struct LocationComponent> locations;
     std::map<int, struct PrecisePositionComponent> precise_positions;
     std::map<int, struct SkillsComponent> skills;
+    std::map<int, struct SkillSetComponent> skill_sets;
     std::map<int, struct RelationComponent> relations;
+
+    // Phase 1 Simulation Components
+    std::map<int, TownComponent> towns;
+    std::map<int, BuildingComponent> buildings;
+    std::map<int, ClanComponent> clans;
+    std::map<int, GoalComponent> goals;
+
+    // Fortress-mode Components
+    std::map<int, BodyComponent> bodies;
+    std::map<int, JobComponent> jobs;
+    std::map<int, NeedsComponent> needs;
 
     // Helpers
     template<typename T>
@@ -110,8 +123,48 @@ public:
         return nullptr;
     }
 
+    SkillSetComponent* GetSkillSet(int entity) {
+        if (skill_sets.count(entity)) return &skill_sets[entity];
+        return nullptr;
+    }
+
     RelationComponent* GetRelation(int entity) {
         if (relations.count(entity)) return &relations[entity];
+        return nullptr;
+    }
+
+    TownComponent* GetTown(int entity) {
+        if (towns.count(entity)) return &towns[entity];
+        return nullptr;
+    }
+
+    BuildingComponent* GetBuilding(int entity) {
+        if (buildings.count(entity)) return &buildings[entity];
+        return nullptr;
+    }
+
+    ClanComponent* GetClan(int entity) {
+        if (clans.count(entity)) return &clans[entity];
+        return nullptr;
+    }
+
+    GoalComponent* GetGoal(int entity) {
+        if (goals.count(entity)) return &goals[entity];
+        return nullptr;
+    }
+
+    BodyComponent* GetBody(int entity) {
+        if (bodies.count(entity)) return &bodies[entity];
+        return nullptr;
+    }
+
+    JobComponent* GetJob(int entity) {
+        if (jobs.count(entity)) return &jobs[entity];
+        return nullptr;
+    }
+
+    NeedsComponent* GetNeeds(int entity) {
+        if (needs.count(entity)) return &needs[entity];
         return nullptr;
     }
 
@@ -131,8 +184,18 @@ public:
         locations.clear();
         precise_positions.clear();
         skills.clear();
+        skill_sets.clear();
         relations.clear();
         sect_diplomacy.clear();
+        
+        towns.clear();
+        buildings.clear();
+        clans.clear();
+        goals.clear();
+        bodies.clear();
+        jobs.clear();
+        needs.clear();
+
         next_id = 0;
     }
 
@@ -154,8 +217,18 @@ public:
         j["locations"] = locations;
         j["precise_positions"] = precise_positions;
         j["skills"] = skills;
+        j["skill_sets"] = skill_sets;
         j["relations"] = relations;
         j["sect_diplomacy"] = sect_diplomacy;
+        
+        j["towns"] = towns;
+        j["buildings"] = buildings;
+        j["clans"] = clans;
+        j["goals"] = goals;
+        j["bodies"] = bodies;
+        j["jobs"] = jobs;
+        j["needs"] = needs;
+
         return j;
     }
 
@@ -177,8 +250,17 @@ public:
         if(j.contains("locations")) locations = j["locations"].get<std::map<int, LocationComponent>>();
         if(j.contains("precise_positions")) precise_positions = j["precise_positions"].get<std::map<int, PrecisePositionComponent>>();
         if(j.contains("skills")) skills = j["skills"].get<std::map<int, SkillsComponent>>();
+        if(j.contains("skill_sets")) skill_sets = j["skill_sets"].get<std::map<int, SkillSetComponent>>();
         if(j.contains("relations")) relations = j["relations"].get<std::map<int, RelationComponent>>();
         if(j.contains("sect_diplomacy")) sect_diplomacy = j["sect_diplomacy"].get<std::map<int, SectDiplomacyComponent>>();
+        
+        if(j.contains("towns")) towns = j["towns"].get<std::map<int, TownComponent>>();
+        if(j.contains("buildings")) buildings = j["buildings"].get<std::map<int, BuildingComponent>>();
+        if(j.contains("clans")) clans = j["clans"].get<std::map<int, ClanComponent>>();
+        if(j.contains("goals")) goals = j["goals"].get<std::map<int, GoalComponent>>();
+        if(j.contains("bodies")) bodies = j["bodies"].get<std::map<int, BodyComponent>>();
+        if(j.contains("jobs")) jobs = j["jobs"].get<std::map<int, JobComponent>>();
+        if(j.contains("needs")) needs = j["needs"].get<std::map<int, NeedsComponent>>();
     }
 
 private:

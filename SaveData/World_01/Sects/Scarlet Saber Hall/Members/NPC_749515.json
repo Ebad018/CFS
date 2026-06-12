@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8899999856948853
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 4,
+            "purity": 0.5400000214576721
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 49,
+        "gender": "Female",
+        "given_name": "Xin",
+        "lifespan": 106,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 11,
+        "compassion": 20,
+        "courage": 11,
+        "curiosity": 42,
+        "current_goal": "Meditate",
+        "diligence": 45,
+        "greed": 65,
+        "honor": 71,
+        "loyalty": 70,
+        "pride": 64,
+        "temper": 89
+    },
+    "social": {
+        "contribution_points": 100,
+        "loyalty": 39,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_749515"
+}

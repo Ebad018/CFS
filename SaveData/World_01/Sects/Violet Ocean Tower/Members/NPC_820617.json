@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0499999523162842
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 5,
+            "purity": 0.9800000190734863
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 61,
+        "gender": "Female",
+        "given_name": "Xue",
+        "lifespan": 101,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 26,
+        "compassion": 41,
+        "courage": 30,
+        "curiosity": 31,
+        "current_goal": "Meditate",
+        "diligence": 93,
+        "greed": 14,
+        "honor": 72,
+        "loyalty": 68,
+        "pride": 23,
+        "temper": 68
+    },
+    "social": {
+        "contribution_points": 385,
+        "loyalty": 30,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_820617"
+}

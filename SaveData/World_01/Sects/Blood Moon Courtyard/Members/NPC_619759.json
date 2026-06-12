@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0700000524520874
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 1,
+            "purity": 0.6800000071525574
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 46,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 97,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 35,
+        "compassion": 8,
+        "courage": 49,
+        "curiosity": 4,
+        "current_goal": "Meditate",
+        "diligence": 55,
+        "greed": 22,
+        "honor": 37,
+        "loyalty": 58,
+        "pride": 52,
+        "temper": 26
+    },
+    "social": {
+        "contribution_points": 167,
+        "loyalty": 58,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_619759"
+}

@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.1100000143051147
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 3,
+            "purity": 0.800000011920929
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 20,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 95,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 42,
+        "compassion": 22,
+        "courage": 54,
+        "curiosity": 13,
+        "current_goal": "Meditate",
+        "diligence": 48,
+        "greed": 8,
+        "honor": 54,
+        "loyalty": 53,
+        "pride": 72,
+        "temper": 73
+    },
+    "social": {
+        "contribution_points": 264,
+        "loyalty": 62,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_823714"
+}

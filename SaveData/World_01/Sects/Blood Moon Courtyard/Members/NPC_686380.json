@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0700000524520874
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 8,
+            "purity": 0.8600000143051147
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 49,
+        "gender": "Male",
+        "given_name": "Lei",
+        "lifespan": 100,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 73,
+        "compassion": 0,
+        "courage": 34,
+        "curiosity": 24,
+        "current_goal": "Meditate",
+        "diligence": 99,
+        "greed": 63,
+        "honor": 9,
+        "loyalty": 68,
+        "pride": 58,
+        "temper": 31
+    },
+    "social": {
+        "contribution_points": 326,
+        "loyalty": 68,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_686380"
+}

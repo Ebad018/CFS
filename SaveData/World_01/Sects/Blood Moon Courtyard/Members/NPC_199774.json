@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8700000047683716
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 3,
+            "purity": 0.5699999928474426
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 41,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 90,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 10,
+        "compassion": 76,
+        "courage": 82,
+        "curiosity": 5,
+        "current_goal": "Meditate",
+        "diligence": 80,
+        "greed": 18,
+        "honor": 49,
+        "loyalty": 34,
+        "pride": 64,
+        "temper": 19
+    },
+    "social": {
+        "contribution_points": 61,
+        "loyalty": 45,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_199774"
+}

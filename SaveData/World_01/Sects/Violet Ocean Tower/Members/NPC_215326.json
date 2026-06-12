@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.800000011920929
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 8,
+            "purity": 0.8899999856948853
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 23,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 91,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 36,
+        "compassion": 69,
+        "courage": 85,
+        "curiosity": 61,
+        "current_goal": "Meditate",
+        "diligence": 34,
+        "greed": 53,
+        "honor": 9,
+        "loyalty": 70,
+        "pride": 93,
+        "temper": 50
+    },
+    "social": {
+        "contribution_points": 121,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_215326"
+}

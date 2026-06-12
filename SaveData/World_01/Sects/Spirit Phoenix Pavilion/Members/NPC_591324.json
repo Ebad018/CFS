@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.949999988079071
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 4,
+            "purity": 0.6700000166893005
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 63,
+        "gender": "Female",
+        "given_name": "Qing",
+        "lifespan": 93,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 14,
+        "compassion": 57,
+        "courage": 21,
+        "curiosity": 4,
+        "current_goal": "Meditate",
+        "diligence": 10,
+        "greed": 92,
+        "honor": 90,
+        "loyalty": 59,
+        "pride": 98,
+        "temper": 55
+    },
+    "social": {
+        "contribution_points": 334,
+        "loyalty": 31,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_591324"
+}

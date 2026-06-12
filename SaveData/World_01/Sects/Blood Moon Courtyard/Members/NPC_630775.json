@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.090000033378601
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 9,
+            "purity": 0.699999988079071
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 59,
+        "gender": "Female",
+        "given_name": "Qing",
+        "lifespan": 98,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 76,
+        "compassion": 19,
+        "courage": 27,
+        "curiosity": 58,
+        "current_goal": "Meditate",
+        "diligence": 4,
+        "greed": 82,
+        "honor": 17,
+        "loyalty": 52,
+        "pride": 4,
+        "temper": 33
+    },
+    "social": {
+        "contribution_points": 48,
+        "loyalty": 45,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_630775"
+}

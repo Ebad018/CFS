@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8100000023841858
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 2,
+            "purity": 0.5099999904632568
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 58,
+        "gender": "Female",
+        "given_name": "Xin",
+        "lifespan": 82,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 66,
+        "compassion": 67,
+        "courage": 53,
+        "curiosity": 84,
+        "current_goal": "Meditate",
+        "diligence": 5,
+        "greed": 40,
+        "honor": 87,
+        "loyalty": 58,
+        "pride": 10,
+        "temper": 100
+    },
+    "social": {
+        "contribution_points": 157,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_944962"
+}

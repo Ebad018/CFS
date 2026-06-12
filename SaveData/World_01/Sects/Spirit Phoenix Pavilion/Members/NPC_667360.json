@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9700000286102295
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 1,
+            "purity": 0.5600000023841858
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 50,
+        "gender": "Female",
+        "given_name": "Xin",
+        "lifespan": 85,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 16,
+        "compassion": 35,
+        "courage": 63,
+        "curiosity": 100,
+        "current_goal": "Meditate",
+        "diligence": 92,
+        "greed": 4,
+        "honor": 6,
+        "loyalty": 68,
+        "pride": 72,
+        "temper": 14
+    },
+    "social": {
+        "contribution_points": 426,
+        "loyalty": 30,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_667360"
+}

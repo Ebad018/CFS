@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.059999942779541
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 6,
+            "purity": 0.8199999928474426
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 34,
+        "gender": "Male",
+        "given_name": "Huo",
+        "lifespan": 81,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 74,
+        "compassion": 10,
+        "courage": 29,
+        "curiosity": 37,
+        "current_goal": "Meditate",
+        "diligence": 38,
+        "greed": 68,
+        "honor": 53,
+        "loyalty": 53,
+        "pride": 69,
+        "temper": 3
+    },
+    "social": {
+        "contribution_points": 389,
+        "loyalty": 32,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_829840"
+}

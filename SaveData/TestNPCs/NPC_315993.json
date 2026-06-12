@@ -1,0 +1,52 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.190000057220459
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 4,
+            "purity": 0.7300000190734863
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 29,
+        "gender": "Female",
+        "given_name": "Xue",
+        "lifespan": 106,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "social": {
+        "contribution_points": 171,
+        "loyalty": 40,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "TEST_SECT"
+    },
+    "uid": "NPC_315993"
+}

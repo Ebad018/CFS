@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8100000023841858
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 8,
+            "purity": 0.6899999976158142
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 23,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 89,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 4,
+        "compassion": 86,
+        "courage": 91,
+        "curiosity": 43,
+        "current_goal": "Meditate",
+        "diligence": 81,
+        "greed": 14,
+        "honor": 88,
+        "loyalty": 44,
+        "pride": 100,
+        "temper": 17
+    },
+    "social": {
+        "contribution_points": 11,
+        "loyalty": 55,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_995885"
+}

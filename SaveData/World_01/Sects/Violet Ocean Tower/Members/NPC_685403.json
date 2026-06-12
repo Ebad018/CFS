@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9300000071525574
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 1,
+            "purity": 0.9200000166893005
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 19,
+        "gender": "Female",
+        "given_name": "Ling",
+        "lifespan": 119,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 25,
+        "compassion": 50,
+        "courage": 43,
+        "curiosity": 11,
+        "current_goal": "Meditate",
+        "diligence": 25,
+        "greed": 10,
+        "honor": 44,
+        "loyalty": 67,
+        "pride": 36,
+        "temper": 84
+    },
+    "social": {
+        "contribution_points": 116,
+        "loyalty": 70,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_685403"
+}

@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.9599999785423279
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 2,
+            "purity": 0.6200000047683716
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 38,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 108,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 65,
+        "compassion": 43,
+        "courage": 83,
+        "curiosity": 72,
+        "current_goal": "Meditate",
+        "diligence": 60,
+        "greed": 72,
+        "honor": 60,
+        "loyalty": 51,
+        "pride": 41,
+        "temper": 61
+    },
+    "social": {
+        "contribution_points": 300,
+        "loyalty": 38,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_688531"
+}

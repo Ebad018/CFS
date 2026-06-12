@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0199999809265137
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 9,
+            "purity": 0.6000000238418579
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 38,
+        "gender": "Female",
+        "given_name": "Yan",
+        "lifespan": 105,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 63,
+        "compassion": 44,
+        "courage": 93,
+        "curiosity": 14,
+        "current_goal": "Meditate",
+        "diligence": 9,
+        "greed": 46,
+        "honor": 40,
+        "loyalty": 42,
+        "pride": 89,
+        "temper": 73
+    },
+    "social": {
+        "contribution_points": 442,
+        "loyalty": 31,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_621283"
+}

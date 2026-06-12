@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9900000095367432
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 2,
+            "purity": 0.8700000047683716
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 55,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 109,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 71,
+        "compassion": 41,
+        "courage": 58,
+        "curiosity": 6,
+        "current_goal": "Meditate",
+        "diligence": 41,
+        "greed": 42,
+        "honor": 91,
+        "loyalty": 66,
+        "pride": 7,
+        "temper": 27
+    },
+    "social": {
+        "contribution_points": 181,
+        "loyalty": 40,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_670439"
+}

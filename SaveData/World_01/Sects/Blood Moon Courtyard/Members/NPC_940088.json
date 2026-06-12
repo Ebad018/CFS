@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.9399999976158142
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 3,
+            "purity": 0.9200000166893005
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 51,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 83,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 80,
+        "compassion": 83,
+        "courage": 60,
+        "curiosity": 70,
+        "current_goal": "Meditate",
+        "diligence": 54,
+        "greed": 46,
+        "honor": 55,
+        "loyalty": 48,
+        "pride": 39,
+        "temper": 5
+    },
+    "social": {
+        "contribution_points": 498,
+        "loyalty": 34,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_940088"
+}

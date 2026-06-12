@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.100000023841858
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 5,
+            "purity": 0.7099999785423279
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 50,
+        "gender": "Female",
+        "given_name": "Xin",
+        "lifespan": 84,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 60,
+        "compassion": 40,
+        "courage": 39,
+        "curiosity": 83,
+        "current_goal": "Meditate",
+        "diligence": 30,
+        "greed": 83,
+        "honor": 36,
+        "loyalty": 63,
+        "pride": 50,
+        "temper": 15
+    },
+    "social": {
+        "contribution_points": 148,
+        "loyalty": 64,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_299040"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9700000286102295
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 8,
+            "purity": 0.8999999761581421
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 47,
+        "gender": "Male",
+        "given_name": "Lei",
+        "lifespan": 91,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 100,
+        "compassion": 100,
+        "courage": 76,
+        "curiosity": 8,
+        "current_goal": "Meditate",
+        "diligence": 68,
+        "greed": 1,
+        "honor": 34,
+        "loyalty": 31,
+        "pride": 43,
+        "temper": 15
+    },
+    "social": {
+        "contribution_points": 131,
+        "loyalty": 31,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_989350"
+}

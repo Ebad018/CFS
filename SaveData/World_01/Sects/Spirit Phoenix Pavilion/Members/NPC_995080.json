@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8899999856948853
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 2,
+            "purity": 0.9900000095367432
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 45,
+        "gender": "Male",
+        "given_name": "Chen",
+        "lifespan": 98,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 34,
+        "compassion": 56,
+        "courage": 15,
+        "curiosity": 48,
+        "current_goal": "Meditate",
+        "diligence": 20,
+        "greed": 90,
+        "honor": 53,
+        "loyalty": 54,
+        "pride": 52,
+        "temper": 54
+    },
+    "social": {
+        "contribution_points": 161,
+        "loyalty": 40,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_995080"
+}

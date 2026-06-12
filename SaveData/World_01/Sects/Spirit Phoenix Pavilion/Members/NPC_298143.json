@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8999999761581421
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 4,
+            "purity": 0.9100000262260437
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 57,
+        "gender": "Male",
+        "given_name": "Huo",
+        "lifespan": 86,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 45,
+        "compassion": 58,
+        "courage": 36,
+        "curiosity": 56,
+        "current_goal": "Meditate",
+        "diligence": 99,
+        "greed": 27,
+        "honor": 21,
+        "loyalty": 63,
+        "pride": 2,
+        "temper": 54
+    },
+    "social": {
+        "contribution_points": 41,
+        "loyalty": 50,
+        "morality": 0,
+        "network": [],
+        "rank": "GRAND_ELDER",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_298143"
+}

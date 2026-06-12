@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.2000000476837158
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 1,
+            "purity": 0.8700000047683716
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 17,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 115,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 44,
+        "compassion": 28,
+        "courage": 16,
+        "curiosity": 39,
+        "current_goal": "Meditate",
+        "diligence": 7,
+        "greed": 38,
+        "honor": 94,
+        "loyalty": 64,
+        "pride": 75,
+        "temper": 51
+    },
+    "social": {
+        "contribution_points": 148,
+        "loyalty": 54,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_358406"
+}

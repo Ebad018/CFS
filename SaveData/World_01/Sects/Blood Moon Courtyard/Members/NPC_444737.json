@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0399999618530273
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 8,
+            "purity": 0.5299999713897705
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 53,
+        "gender": "Female",
+        "given_name": "Xue",
+        "lifespan": 111,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 72,
+        "compassion": 74,
+        "courage": 9,
+        "curiosity": 50,
+        "current_goal": "Meditate",
+        "diligence": 12,
+        "greed": 7,
+        "honor": 87,
+        "loyalty": 48,
+        "pride": 56,
+        "temper": 83
+    },
+    "social": {
+        "contribution_points": 281,
+        "loyalty": 54,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_444737"
+}

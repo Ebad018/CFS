@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.159999966621399
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 1,
+            "purity": 0.6200000047683716
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 61,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 86,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 37,
+        "compassion": 89,
+        "courage": 72,
+        "curiosity": 74,
+        "current_goal": "Meditate",
+        "diligence": 57,
+        "greed": 59,
+        "honor": 92,
+        "loyalty": 44,
+        "pride": 54,
+        "temper": 19
+    },
+    "social": {
+        "contribution_points": 492,
+        "loyalty": 70,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_957286"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8199999928474426
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 9,
+            "purity": 0.5299999713897705
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 23,
+        "gender": "Male",
+        "given_name": "Gang",
+        "lifespan": 107,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 35,
+        "compassion": 64,
+        "courage": 95,
+        "curiosity": 71,
+        "current_goal": "Meditate",
+        "diligence": 24,
+        "greed": 95,
+        "honor": 48,
+        "loyalty": 33,
+        "pride": 37,
+        "temper": 52
+    },
+    "social": {
+        "contribution_points": 269,
+        "loyalty": 54,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_619246"
+}

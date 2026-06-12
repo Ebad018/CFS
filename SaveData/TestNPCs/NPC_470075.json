@@ -1,0 +1,52 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1399999856948853
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 3,
+            "purity": 0.800000011920929
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 66,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 91,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "social": {
+        "contribution_points": 250,
+        "loyalty": 42,
+        "morality": 0,
+        "network": [],
+        "rank": "ELDER",
+        "sect_id": "TEST_SECT"
+    },
+    "uid": "NPC_470075"
+}

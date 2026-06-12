@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.949999988079071
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.5699999928474426
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 35,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 89,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 3,
+        "compassion": 17,
+        "courage": 84,
+        "curiosity": 39,
+        "current_goal": "Meditate",
+        "diligence": 75,
+        "greed": 62,
+        "honor": 22,
+        "loyalty": 69,
+        "pride": 71,
+        "temper": 7
+    },
+    "social": {
+        "contribution_points": 392,
+        "loyalty": 58,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_109553"
+}

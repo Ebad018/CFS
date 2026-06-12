@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.100000023841858
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 6,
+            "purity": 0.7300000190734863
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 56,
+        "gender": "Female",
+        "given_name": "Xin",
+        "lifespan": 80,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 36,
+        "compassion": 55,
+        "courage": 66,
+        "curiosity": 44,
+        "current_goal": "Meditate",
+        "diligence": 86,
+        "greed": 26,
+        "honor": 43,
+        "loyalty": 58,
+        "pride": 93,
+        "temper": 78
+    },
+    "social": {
+        "contribution_points": 149,
+        "loyalty": 41,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_759350"
+}

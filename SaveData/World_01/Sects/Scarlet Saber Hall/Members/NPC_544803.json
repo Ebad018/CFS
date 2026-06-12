@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8100000023841858
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 2,
+            "purity": 0.6600000262260437
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 16,
+        "gender": "Female",
+        "given_name": "Yan",
+        "lifespan": 120,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 98,
+        "compassion": 33,
+        "courage": 95,
+        "curiosity": 90,
+        "current_goal": "Meditate",
+        "diligence": 7,
+        "greed": 96,
+        "honor": 64,
+        "loyalty": 30,
+        "pride": 70,
+        "temper": 46
+    },
+    "social": {
+        "contribution_points": 409,
+        "loyalty": 57,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_544803"
+}

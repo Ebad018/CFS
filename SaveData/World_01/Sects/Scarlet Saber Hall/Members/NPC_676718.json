@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1800000667572021
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 6,
+            "purity": 0.8100000023841858
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 45,
+        "gender": "Male",
+        "given_name": "Huo",
+        "lifespan": 92,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 21,
+        "compassion": 11,
+        "courage": 15,
+        "curiosity": 43,
+        "current_goal": "Meditate",
+        "diligence": 59,
+        "greed": 52,
+        "honor": 31,
+        "loyalty": 59,
+        "pride": 31,
+        "temper": 71
+    },
+    "social": {
+        "contribution_points": 462,
+        "loyalty": 38,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_676718"
+}

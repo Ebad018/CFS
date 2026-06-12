@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0399999618530273
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 2,
+            "purity": 0.9800000190734863
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 51,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 107,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 72,
+        "compassion": 12,
+        "courage": 53,
+        "curiosity": 97,
+        "current_goal": "Meditate",
+        "diligence": 92,
+        "greed": 30,
+        "honor": 26,
+        "loyalty": 33,
+        "pride": 54,
+        "temper": 29
+    },
+    "social": {
+        "contribution_points": 425,
+        "loyalty": 43,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_652253"
+}

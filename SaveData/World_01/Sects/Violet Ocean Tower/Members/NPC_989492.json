@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0199999809265137
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 6,
+            "purity": 0.6800000071525574
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 57,
+        "gender": "Female",
+        "given_name": "Ling",
+        "lifespan": 86,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 36,
+        "compassion": 26,
+        "courage": 46,
+        "curiosity": 66,
+        "current_goal": "Meditate",
+        "diligence": 37,
+        "greed": 43,
+        "honor": 83,
+        "loyalty": 51,
+        "pride": 65,
+        "temper": 35
+    },
+    "social": {
+        "contribution_points": 206,
+        "loyalty": 43,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_989492"
+}

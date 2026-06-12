@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0199999809265137
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 6,
+            "purity": 0.6100000143051147
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 38,
+        "gender": "Male",
+        "given_name": "Tao",
+        "lifespan": 113,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 20,
+        "compassion": 13,
+        "courage": 63,
+        "curiosity": 65,
+        "current_goal": "Meditate",
+        "diligence": 71,
+        "greed": 88,
+        "honor": 61,
+        "loyalty": 33,
+        "pride": 46,
+        "temper": 6
+    },
+    "social": {
+        "contribution_points": 436,
+        "loyalty": 47,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_653913"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.2000000476837158
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 2,
+            "purity": 0.8100000023841858
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 61,
+        "gender": "Male",
+        "given_name": "Chen",
+        "lifespan": 100,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 70,
+        "compassion": 88,
+        "courage": 53,
+        "curiosity": 71,
+        "current_goal": "Meditate",
+        "diligence": 55,
+        "greed": 49,
+        "honor": 28,
+        "loyalty": 51,
+        "pride": 55,
+        "temper": 24
+    },
+    "social": {
+        "contribution_points": 195,
+        "loyalty": 44,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_777259"
+}

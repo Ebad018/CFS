@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 7,
+            "purity": 0.9399999976158142
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 39,
+        "gender": "Female",
+        "given_name": "Lan",
+        "lifespan": 91,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 21,
+        "compassion": 39,
+        "courage": 6,
+        "curiosity": 36,
+        "current_goal": "Meditate",
+        "diligence": 57,
+        "greed": 20,
+        "honor": 37,
+        "loyalty": 36,
+        "pride": 67,
+        "temper": 91
+    },
+    "social": {
+        "contribution_points": 39,
+        "loyalty": 43,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_989564"
+}

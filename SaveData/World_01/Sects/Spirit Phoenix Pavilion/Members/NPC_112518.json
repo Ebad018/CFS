@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 4,
+            "purity": 0.5099999904632568
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 64,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 88,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 5,
+        "compassion": 11,
+        "courage": 58,
+        "curiosity": 38,
+        "current_goal": "Meditate",
+        "diligence": 26,
+        "greed": 83,
+        "honor": 45,
+        "loyalty": 67,
+        "pride": 84,
+        "temper": 79
+    },
+    "social": {
+        "contribution_points": 413,
+        "loyalty": 57,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_112518"
+}

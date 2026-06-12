@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 4,
+            "purity": 0.6399999856948853
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 40,
+        "gender": "Female",
+        "given_name": "Yan",
+        "lifespan": 119,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 20,
+        "compassion": 92,
+        "courage": 91,
+        "curiosity": 72,
+        "current_goal": "Meditate",
+        "diligence": 97,
+        "greed": 15,
+        "honor": 30,
+        "loyalty": 35,
+        "pride": 47,
+        "temper": 27
+    },
+    "social": {
+        "contribution_points": 137,
+        "loyalty": 62,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_172629"
+}

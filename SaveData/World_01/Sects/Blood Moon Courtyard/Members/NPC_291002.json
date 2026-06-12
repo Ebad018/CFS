@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.0
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 6,
+            "purity": 0.9599999785423279
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 63,
+        "gender": "Male",
+        "given_name": "Gang",
+        "lifespan": 120,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 95,
+        "compassion": 54,
+        "courage": 69,
+        "curiosity": 1,
+        "current_goal": "Meditate",
+        "diligence": 43,
+        "greed": 0,
+        "honor": 55,
+        "loyalty": 59,
+        "pride": 57,
+        "temper": 49
+    },
+    "social": {
+        "contribution_points": 136,
+        "loyalty": 55,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_291002"
+}

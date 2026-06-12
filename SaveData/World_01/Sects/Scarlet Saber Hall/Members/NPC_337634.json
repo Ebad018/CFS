@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.949999988079071
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 4,
+            "purity": 0.5699999928474426
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 38,
+        "gender": "Male",
+        "given_name": "Wei",
+        "lifespan": 108,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 85,
+        "compassion": 86,
+        "courage": 96,
+        "curiosity": 20,
+        "current_goal": "Meditate",
+        "diligence": 14,
+        "greed": 57,
+        "honor": 34,
+        "loyalty": 46,
+        "pride": 22,
+        "temper": 92
+    },
+    "social": {
+        "contribution_points": 304,
+        "loyalty": 32,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_337634"
+}

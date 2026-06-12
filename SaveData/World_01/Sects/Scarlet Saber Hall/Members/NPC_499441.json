@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1800000667572021
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 8,
+            "purity": 0.949999988079071
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 43,
+        "gender": "Male",
+        "given_name": "Lei",
+        "lifespan": 83,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 36,
+        "compassion": 81,
+        "courage": 39,
+        "curiosity": 10,
+        "current_goal": "Meditate",
+        "diligence": 51,
+        "greed": 35,
+        "honor": 45,
+        "loyalty": 68,
+        "pride": 98,
+        "temper": 89
+    },
+    "social": {
+        "contribution_points": 394,
+        "loyalty": 58,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_499441"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 7,
+            "purity": 0.7799999713897705
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 65,
+        "gender": "Female",
+        "given_name": "Xin",
+        "lifespan": 82,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 74,
+        "compassion": 96,
+        "courage": 74,
+        "curiosity": 34,
+        "current_goal": "Meditate",
+        "diligence": 74,
+        "greed": 41,
+        "honor": 95,
+        "loyalty": 64,
+        "pride": 41,
+        "temper": 0
+    },
+    "social": {
+        "contribution_points": 316,
+        "loyalty": 36,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_525689"
+}

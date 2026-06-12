@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.100000023841858
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 3,
+            "purity": 0.5
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 65,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 94,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 14,
+        "compassion": 40,
+        "courage": 6,
+        "curiosity": 18,
+        "current_goal": "Meditate",
+        "diligence": 63,
+        "greed": 83,
+        "honor": 16,
+        "loyalty": 58,
+        "pride": 70,
+        "temper": 47
+    },
+    "social": {
+        "contribution_points": 121,
+        "loyalty": 48,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_315102"
+}

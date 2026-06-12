@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9099999666213989
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 2,
+            "purity": 0.8500000238418579
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 25,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 95,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 11,
+        "compassion": 28,
+        "courage": 80,
+        "curiosity": 64,
+        "current_goal": "Meditate",
+        "diligence": 28,
+        "greed": 18,
+        "honor": 0,
+        "loyalty": 32,
+        "pride": 16,
+        "temper": 31
+    },
+    "social": {
+        "contribution_points": 231,
+        "loyalty": 70,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_835263"
+}

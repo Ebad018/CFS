@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0099999904632568
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 8,
+            "purity": 0.7599999904632568
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 56,
+        "gender": "Female",
+        "given_name": "Qing",
+        "lifespan": 115,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 1,
+        "compassion": 37,
+        "courage": 8,
+        "curiosity": 5,
+        "current_goal": "Meditate",
+        "diligence": 18,
+        "greed": 45,
+        "honor": 24,
+        "loyalty": 58,
+        "pride": 50,
+        "temper": 98
+    },
+    "social": {
+        "contribution_points": 61,
+        "loyalty": 64,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_751375"
+}

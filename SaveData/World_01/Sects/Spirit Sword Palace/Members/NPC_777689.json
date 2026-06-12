@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.0199999809265137
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.699999988079071
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 46,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 109,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 61,
+        "compassion": 18,
+        "courage": 60,
+        "curiosity": 46,
+        "current_goal": "Meditate",
+        "diligence": 26,
+        "greed": 16,
+        "honor": 69,
+        "loyalty": 40,
+        "pride": 64,
+        "temper": 31
+    },
+    "social": {
+        "contribution_points": 454,
+        "loyalty": 51,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_777689"
+}

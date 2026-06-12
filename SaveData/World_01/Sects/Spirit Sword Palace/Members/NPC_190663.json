@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8400000333786011
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.6700000166893005
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 19,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 104,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 11,
+        "compassion": 97,
+        "courage": 46,
+        "curiosity": 13,
+        "current_goal": "Meditate",
+        "diligence": 99,
+        "greed": 2,
+        "honor": 61,
+        "loyalty": 54,
+        "pride": 32,
+        "temper": 64
+    },
+    "social": {
+        "contribution_points": 288,
+        "loyalty": 51,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_190663"
+}

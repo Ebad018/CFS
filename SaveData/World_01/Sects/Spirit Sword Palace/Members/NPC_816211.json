@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8999999761581421
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.6000000238418579
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 41,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 96,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 10,
+        "compassion": 48,
+        "courage": 75,
+        "curiosity": 71,
+        "current_goal": "Meditate",
+        "diligence": 84,
+        "greed": 54,
+        "honor": 64,
+        "loyalty": 44,
+        "pride": 43,
+        "temper": 44
+    },
+    "social": {
+        "contribution_points": 496,
+        "loyalty": 62,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_816211"
+}

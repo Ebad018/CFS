@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9900000095367432
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 7,
+            "purity": 0.5
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 51,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 82,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 82,
+        "compassion": 23,
+        "courage": 93,
+        "curiosity": 58,
+        "current_goal": "Meditate",
+        "diligence": 93,
+        "greed": 78,
+        "honor": 55,
+        "loyalty": 43,
+        "pride": 65,
+        "temper": 92
+    },
+    "social": {
+        "contribution_points": 49,
+        "loyalty": 67,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_394522"
+}

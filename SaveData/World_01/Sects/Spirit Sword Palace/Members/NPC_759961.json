@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.9599999785423279
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 3,
+            "purity": 0.5699999928474426
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 55,
+        "gender": "Female",
+        "given_name": "Ling",
+        "lifespan": 83,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 61,
+        "compassion": 71,
+        "courage": 97,
+        "curiosity": 59,
+        "current_goal": "Meditate",
+        "diligence": 78,
+        "greed": 56,
+        "honor": 17,
+        "loyalty": 66,
+        "pride": 65,
+        "temper": 92
+    },
+    "social": {
+        "contribution_points": 4,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "GRAND_ELDER",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_759961"
+}

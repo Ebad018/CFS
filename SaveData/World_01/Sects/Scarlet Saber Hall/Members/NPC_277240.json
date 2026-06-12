@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.2000000476837158
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 4,
+            "purity": 0.8199999928474426
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 59,
+        "gender": "Female",
+        "given_name": "Qing",
+        "lifespan": 104,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 47,
+        "compassion": 89,
+        "courage": 19,
+        "curiosity": 43,
+        "current_goal": "Meditate",
+        "diligence": 36,
+        "greed": 98,
+        "honor": 3,
+        "loyalty": 68,
+        "pride": 56,
+        "temper": 90
+    },
+    "social": {
+        "contribution_points": 193,
+        "loyalty": 52,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_277240"
+}

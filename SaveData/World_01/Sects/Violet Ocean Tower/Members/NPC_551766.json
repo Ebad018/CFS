@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.149999976158142
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 4,
+            "purity": 0.6600000262260437
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 64,
+        "gender": "Male",
+        "given_name": "Chen",
+        "lifespan": 96,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 32,
+        "compassion": 56,
+        "courage": 87,
+        "curiosity": 73,
+        "current_goal": "Meditate",
+        "diligence": 85,
+        "greed": 22,
+        "honor": 31,
+        "loyalty": 70,
+        "pride": 40,
+        "temper": 43
+    },
+    "social": {
+        "contribution_points": 140,
+        "loyalty": 51,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_551766"
+}

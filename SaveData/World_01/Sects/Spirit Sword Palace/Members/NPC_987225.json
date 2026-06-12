@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9599999785423279
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 6,
+            "purity": 0.7200000286102295
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 20,
+        "gender": "Male",
+        "given_name": "Lei",
+        "lifespan": 109,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 80,
+        "compassion": 81,
+        "courage": 14,
+        "curiosity": 49,
+        "current_goal": "Meditate",
+        "diligence": 34,
+        "greed": 50,
+        "honor": 63,
+        "loyalty": 63,
+        "pride": 95,
+        "temper": 85
+    },
+    "social": {
+        "contribution_points": 2,
+        "loyalty": 54,
+        "morality": 0,
+        "network": [],
+        "rank": "LEADER",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_987225"
+}

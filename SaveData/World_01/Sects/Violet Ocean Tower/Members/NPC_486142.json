@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.9599999785423279
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 8,
+            "purity": 0.8399999737739563
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 18,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 86,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 10,
+        "compassion": 28,
+        "courage": 22,
+        "curiosity": 75,
+        "current_goal": "Meditate",
+        "diligence": 47,
+        "greed": 35,
+        "honor": 39,
+        "loyalty": 56,
+        "pride": 6,
+        "temper": 11
+    },
+    "social": {
+        "contribution_points": 238,
+        "loyalty": 35,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_486142"
+}

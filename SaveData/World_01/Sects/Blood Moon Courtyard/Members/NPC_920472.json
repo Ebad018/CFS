@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0499999523162842
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 5,
+            "purity": 0.9300000071525574
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 57,
+        "gender": "Female",
+        "given_name": "Ling",
+        "lifespan": 103,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 49,
+        "compassion": 37,
+        "courage": 28,
+        "curiosity": 54,
+        "current_goal": "Meditate",
+        "diligence": 49,
+        "greed": 74,
+        "honor": 91,
+        "loyalty": 57,
+        "pride": 87,
+        "temper": 86
+    },
+    "social": {
+        "contribution_points": 249,
+        "loyalty": 44,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_920472"
+}

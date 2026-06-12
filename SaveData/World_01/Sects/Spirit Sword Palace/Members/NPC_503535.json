@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0399999618530273
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 9,
+            "purity": 0.6499999761581421
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 33,
+        "gender": "Female",
+        "given_name": "Xin",
+        "lifespan": 100,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 100,
+        "compassion": 30,
+        "courage": 43,
+        "curiosity": 48,
+        "current_goal": "Meditate",
+        "diligence": 73,
+        "greed": 45,
+        "honor": 96,
+        "loyalty": 54,
+        "pride": 73,
+        "temper": 45
+    },
+    "social": {
+        "contribution_points": 35,
+        "loyalty": 54,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_503535"
+}

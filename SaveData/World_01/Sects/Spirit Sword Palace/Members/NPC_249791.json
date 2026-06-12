@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9900000095367432
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 5,
+            "purity": 0.9800000190734863
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 56,
+        "gender": "Male",
+        "given_name": "Wei",
+        "lifespan": 117,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 33,
+        "compassion": 96,
+        "courage": 32,
+        "curiosity": 53,
+        "current_goal": "Meditate",
+        "diligence": 8,
+        "greed": 93,
+        "honor": 20,
+        "loyalty": 30,
+        "pride": 89,
+        "temper": 32
+    },
+    "social": {
+        "contribution_points": 484,
+        "loyalty": 53,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_249791"
+}

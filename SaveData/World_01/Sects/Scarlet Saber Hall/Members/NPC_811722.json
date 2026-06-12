@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.190000057220459
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 2,
+            "purity": 0.6700000166893005
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 54,
+        "gender": "Male",
+        "given_name": "Tao",
+        "lifespan": 114,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 30,
+        "compassion": 47,
+        "courage": 62,
+        "curiosity": 13,
+        "current_goal": "Meditate",
+        "diligence": 33,
+        "greed": 42,
+        "honor": 41,
+        "loyalty": 33,
+        "pride": 80,
+        "temper": 28
+    },
+    "social": {
+        "contribution_points": 188,
+        "loyalty": 46,
+        "morality": 0,
+        "network": [],
+        "rank": "ELDER",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_811722"
+}

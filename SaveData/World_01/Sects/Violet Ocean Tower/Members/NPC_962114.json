@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0700000524520874
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 8,
+            "purity": 0.949999988079071
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 47,
+        "gender": "Male",
+        "given_name": "Gang",
+        "lifespan": 102,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 70,
+        "compassion": 12,
+        "courage": 86,
+        "curiosity": 95,
+        "current_goal": "Meditate",
+        "diligence": 98,
+        "greed": 51,
+        "honor": 38,
+        "loyalty": 68,
+        "pride": 60,
+        "temper": 2
+    },
+    "social": {
+        "contribution_points": 441,
+        "loyalty": 40,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_962114"
+}

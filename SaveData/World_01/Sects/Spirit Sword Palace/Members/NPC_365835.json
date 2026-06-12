@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.9700000286102295
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 1,
+            "purity": 0.6000000238418579
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 36,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 114,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 93,
+        "compassion": 62,
+        "courage": 98,
+        "curiosity": 1,
+        "current_goal": "Meditate",
+        "diligence": 31,
+        "greed": 53,
+        "honor": 41,
+        "loyalty": 32,
+        "pride": 42,
+        "temper": 57
+    },
+    "social": {
+        "contribution_points": 449,
+        "loyalty": 49,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_365835"
+}

@@ -1,0 +1,52 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9399999976158142
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 5,
+            "purity": 0.9399999976158142
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 41,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 111,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "social": {
+        "contribution_points": 329,
+        "loyalty": 30,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "TEST_SECT"
+    },
+    "uid": "NPC_298091"
+}

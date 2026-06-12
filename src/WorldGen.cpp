@@ -494,8 +494,8 @@ void WorldGen::PopulateSects(class Registry& registry, MapLayer& layer) {
 
                 if (r.rank == 5) {
                     std::vector<InventoryComponent::ItemInstance> starterStash;
-                    starterStash.push_back({"WPN_SWD_01", 5, 100, false}); // 5 Basic Swords
-                    starterStash.push_back({"CSM_001", 20, 100, false});   // 20 Pills
+                    starterStash.push_back(InventoryComponent::ItemInstance{"WPN_SWD_01", 5, 100, false}); // 5 Basic Swords
+                    starterStash.push_back(InventoryComponent::ItemInstance{"CSM_001", 20, 100, false});   // 20 Pills
                     
                     registry.sect_resources[entity] = {
                         1000 + (rand() % 5000), 
@@ -535,8 +535,8 @@ void WorldGen::PopulateSects(class Registry& registry, MapLayer& layer) {
 
                 if (r.rank == 5) {
                     std::vector<InventoryComponent::ItemInstance> starterStash;
-                    starterStash.push_back({"WPN_SWD_01", 5, 100, false}); // 5 Basic Swords
-                    starterStash.push_back({"CSM_001", 20, 100, false});   // 20 Pills
+                    starterStash.push_back(InventoryComponent::ItemInstance{"WPN_SWD_01", 5, 100, false}); // 5 Basic Swords
+                    starterStash.push_back(InventoryComponent::ItemInstance{"CSM_001", 20, 100, false});   // 20 Pills
                     
                     registry.sect_resources[entity] = {
                         1000 + (rand() % 5000), 
@@ -583,7 +583,7 @@ void WorldGen::PopulateSects(class Registry& registry, MapLayer& layer) {
                 if (!items.empty()) {
                     for (const auto& it : items) {
                         if (it.type == "Weapon" && it.tier <= (realmInt + 1)) {
-                             registry.inventories[entity].items.push_back({it.id, 1, 100, true});
+                             registry.inventories[entity].items.push_back(InventoryComponent::ItemInstance{it.id, 1, 100, true});
                              break; // Just one for now
                         }
                     }

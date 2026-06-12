@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9200000166893005
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 8,
+            "purity": 0.6100000143051147
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 45,
+        "gender": "Male",
+        "given_name": "Wei",
+        "lifespan": 95,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 37,
+        "compassion": 98,
+        "courage": 9,
+        "curiosity": 40,
+        "current_goal": "Meditate",
+        "diligence": 99,
+        "greed": 77,
+        "honor": 65,
+        "loyalty": 60,
+        "pride": 81,
+        "temper": 88
+    },
+    "social": {
+        "contribution_points": 260,
+        "loyalty": 63,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_613995"
+}

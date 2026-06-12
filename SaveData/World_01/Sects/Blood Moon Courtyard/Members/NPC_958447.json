@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8400000333786011
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 6,
+            "purity": 0.5600000023841858
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 19,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 85,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 43,
+        "compassion": 66,
+        "courage": 16,
+        "curiosity": 26,
+        "current_goal": "Meditate",
+        "diligence": 34,
+        "greed": 37,
+        "honor": 16,
+        "loyalty": 69,
+        "pride": 86,
+        "temper": 15
+    },
+    "social": {
+        "contribution_points": 397,
+        "loyalty": 62,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_958447"
+}

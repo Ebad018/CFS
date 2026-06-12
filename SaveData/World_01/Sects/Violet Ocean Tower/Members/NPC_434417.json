@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8400000333786011
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 7,
+            "purity": 0.5799999833106995
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 51,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 84,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 16,
+        "compassion": 82,
+        "courage": 36,
+        "curiosity": 78,
+        "current_goal": "Meditate",
+        "diligence": 92,
+        "greed": 38,
+        "honor": 10,
+        "loyalty": 36,
+        "pride": 68,
+        "temper": 76
+    },
+    "social": {
+        "contribution_points": 45,
+        "loyalty": 36,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_434417"
+}

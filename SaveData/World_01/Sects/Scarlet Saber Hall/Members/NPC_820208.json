@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.9300000071525574
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 3,
+            "purity": 0.8600000143051147
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 50,
+        "gender": "Male",
+        "given_name": "Gang",
+        "lifespan": 105,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 54,
+        "compassion": 48,
+        "courage": 29,
+        "curiosity": 4,
+        "current_goal": "Meditate",
+        "diligence": 63,
+        "greed": 40,
+        "honor": 15,
+        "loyalty": 56,
+        "pride": 36,
+        "temper": 68
+    },
+    "social": {
+        "contribution_points": 173,
+        "loyalty": 67,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_820208"
+}

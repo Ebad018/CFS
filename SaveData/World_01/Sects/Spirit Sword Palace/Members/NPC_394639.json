@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.100000023841858
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 3,
+            "purity": 0.5
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 21,
+        "gender": "Male",
+        "given_name": "Tao",
+        "lifespan": 99,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 14,
+        "compassion": 26,
+        "courage": 61,
+        "curiosity": 73,
+        "current_goal": "Meditate",
+        "diligence": 2,
+        "greed": 22,
+        "honor": 50,
+        "loyalty": 47,
+        "pride": 3,
+        "temper": 91
+    },
+    "social": {
+        "contribution_points": 235,
+        "loyalty": 70,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_394639"
+}

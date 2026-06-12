@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8999999761581421
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.5099999904632568
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 30,
+        "gender": "Male",
+        "given_name": "Huo",
+        "lifespan": 109,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 22,
+        "compassion": 94,
+        "courage": 24,
+        "curiosity": 45,
+        "current_goal": "Meditate",
+        "diligence": 52,
+        "greed": 66,
+        "honor": 32,
+        "loyalty": 65,
+        "pride": 89,
+        "temper": 12
+    },
+    "social": {
+        "contribution_points": 265,
+        "loyalty": 49,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_891840"
+}

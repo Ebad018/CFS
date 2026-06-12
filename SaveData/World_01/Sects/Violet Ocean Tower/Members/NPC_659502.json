@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.159999966621399
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 9,
+            "purity": 0.7300000190734863
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 31,
+        "gender": "Male",
+        "given_name": "Gang",
+        "lifespan": 85,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 78,
+        "compassion": 22,
+        "courage": 39,
+        "curiosity": 60,
+        "current_goal": "Meditate",
+        "diligence": 94,
+        "greed": 66,
+        "honor": 46,
+        "loyalty": 61,
+        "pride": 11,
+        "temper": 54
+    },
+    "social": {
+        "contribution_points": 382,
+        "loyalty": 47,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_659502"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.190000057220459
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 3,
+            "purity": 0.5199999809265137
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 19,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 105,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 17,
+        "compassion": 95,
+        "courage": 51,
+        "curiosity": 91,
+        "current_goal": "Meditate",
+        "diligence": 22,
+        "greed": 51,
+        "honor": 94,
+        "loyalty": 40,
+        "pride": 42,
+        "temper": 89
+    },
+    "social": {
+        "contribution_points": 400,
+        "loyalty": 60,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_271845"
+}

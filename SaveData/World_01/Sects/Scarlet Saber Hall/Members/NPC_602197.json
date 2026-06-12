@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.059999942779541
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 4,
+            "purity": 0.9900000095367432
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 47,
+        "gender": "Female",
+        "given_name": "Hua",
+        "lifespan": 98,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 19,
+        "compassion": 71,
+        "courage": 85,
+        "curiosity": 49,
+        "current_goal": "Meditate",
+        "diligence": 86,
+        "greed": 83,
+        "honor": 95,
+        "loyalty": 37,
+        "pride": 42,
+        "temper": 48
+    },
+    "social": {
+        "contribution_points": 157,
+        "loyalty": 65,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_602197"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1800000667572021
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 4,
+            "purity": 0.6800000071525574
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 19,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 109,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 50,
+        "compassion": 44,
+        "courage": 0,
+        "curiosity": 22,
+        "current_goal": "Meditate",
+        "diligence": 8,
+        "greed": 91,
+        "honor": 30,
+        "loyalty": 46,
+        "pride": 22,
+        "temper": 63
+    },
+    "social": {
+        "contribution_points": 141,
+        "loyalty": 47,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_303036"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8799999952316284
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 3,
+            "purity": 0.8399999737739563
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 23,
+        "gender": "Female",
+        "given_name": "Yan",
+        "lifespan": 81,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 23,
+        "compassion": 23,
+        "courage": 0,
+        "curiosity": 69,
+        "current_goal": "Meditate",
+        "diligence": 4,
+        "greed": 16,
+        "honor": 93,
+        "loyalty": 65,
+        "pride": 93,
+        "temper": 84
+    },
+    "social": {
+        "contribution_points": 212,
+        "loyalty": 33,
+        "morality": 0,
+        "network": [],
+        "rank": "ELDER",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_530155"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9099999666213989
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 3,
+            "purity": 0.5099999904632568
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 25,
+        "gender": "Male",
+        "given_name": "Feng",
+        "lifespan": 106,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 50,
+        "compassion": 71,
+        "courage": 61,
+        "curiosity": 7,
+        "current_goal": "Meditate",
+        "diligence": 93,
+        "greed": 31,
+        "honor": 10,
+        "loyalty": 56,
+        "pride": 9,
+        "temper": 27
+    },
+    "social": {
+        "contribution_points": 16,
+        "loyalty": 31,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_316396"
+}

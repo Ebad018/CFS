@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8799999952316284
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 1,
+            "purity": 0.8700000047683716
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 32,
+        "gender": "Male",
+        "given_name": "Wei",
+        "lifespan": 93,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 40,
+        "compassion": 91,
+        "courage": 2,
+        "curiosity": 5,
+        "current_goal": "Meditate",
+        "diligence": 78,
+        "greed": 75,
+        "honor": 43,
+        "loyalty": 35,
+        "pride": 85,
+        "temper": 28
+    },
+    "social": {
+        "contribution_points": 491,
+        "loyalty": 66,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_131000"
+}

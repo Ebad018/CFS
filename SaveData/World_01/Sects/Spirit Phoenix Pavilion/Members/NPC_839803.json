@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9700000286102295
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.7400000095367432
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 44,
+        "gender": "Male",
+        "given_name": "Wei",
+        "lifespan": 102,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 86,
+        "compassion": 61,
+        "courage": 95,
+        "curiosity": 91,
+        "current_goal": "Meditate",
+        "diligence": 55,
+        "greed": 55,
+        "honor": 96,
+        "loyalty": 47,
+        "pride": 1,
+        "temper": 10
+    },
+    "social": {
+        "contribution_points": 475,
+        "loyalty": 32,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_839803"
+}

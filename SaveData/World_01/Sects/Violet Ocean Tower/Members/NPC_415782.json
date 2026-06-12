@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8500000238418579
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 5,
+            "purity": 0.9200000166893005
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 26,
+        "gender": "Male",
+        "given_name": "Gang",
+        "lifespan": 93,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 92,
+        "compassion": 79,
+        "courage": 75,
+        "curiosity": 86,
+        "current_goal": "Meditate",
+        "diligence": 19,
+        "greed": 30,
+        "honor": 91,
+        "loyalty": 40,
+        "pride": 68,
+        "temper": 55
+    },
+    "social": {
+        "contribution_points": 452,
+        "loyalty": 40,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_415782"
+}

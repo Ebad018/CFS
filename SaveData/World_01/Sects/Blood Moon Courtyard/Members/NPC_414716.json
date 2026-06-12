@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.2000000476837158
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 6,
+            "purity": 0.949999988079071
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 16,
+        "gender": "Male",
+        "given_name": "Lei",
+        "lifespan": 106,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 77,
+        "compassion": 35,
+        "courage": 40,
+        "curiosity": 98,
+        "current_goal": "Meditate",
+        "diligence": 84,
+        "greed": 37,
+        "honor": 71,
+        "loyalty": 50,
+        "pride": 20,
+        "temper": 42
+    },
+    "social": {
+        "contribution_points": 178,
+        "loyalty": 40,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_414716"
+}

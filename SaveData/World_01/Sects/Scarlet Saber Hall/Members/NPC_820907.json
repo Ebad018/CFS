@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0800000429153442
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 6,
+            "purity": 0.9399999976158142
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 54,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 106,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 76,
+        "compassion": 67,
+        "courage": 84,
+        "curiosity": 35,
+        "current_goal": "Meditate",
+        "diligence": 25,
+        "greed": 63,
+        "honor": 47,
+        "loyalty": 60,
+        "pride": 32,
+        "temper": 64
+    },
+    "social": {
+        "contribution_points": 449,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_820907"
+}

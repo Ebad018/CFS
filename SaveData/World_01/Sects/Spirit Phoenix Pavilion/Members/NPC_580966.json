@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1699999570846558
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 5,
+            "purity": 0.75
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 45,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 92,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 64,
+        "compassion": 8,
+        "courage": 65,
+        "curiosity": 10,
+        "current_goal": "Meditate",
+        "diligence": 27,
+        "greed": 69,
+        "honor": 81,
+        "loyalty": 38,
+        "pride": 57,
+        "temper": 78
+    },
+    "social": {
+        "contribution_points": 293,
+        "loyalty": 62,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_580966"
+}

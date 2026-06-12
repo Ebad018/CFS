@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.149999976158142
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 7,
+            "purity": 0.7900000214576721
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 25,
+        "gender": "Female",
+        "given_name": "Xue",
+        "lifespan": 91,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 38,
+        "compassion": 76,
+        "courage": 11,
+        "curiosity": 75,
+        "current_goal": "Meditate",
+        "diligence": 90,
+        "greed": 34,
+        "honor": 83,
+        "loyalty": 68,
+        "pride": 63,
+        "temper": 30
+    },
+    "social": {
+        "contribution_points": 468,
+        "loyalty": 38,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_563257"
+}

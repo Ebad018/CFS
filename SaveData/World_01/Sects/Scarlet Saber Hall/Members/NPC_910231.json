@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 3000,
+        "qi_max": 3000,
+        "realm": {
+            "major": "Foundation",
+            "minor": 7,
+            "purity": 0.7699999809265137
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 22,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 88,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 73,
+        "compassion": 47,
+        "courage": 60,
+        "curiosity": 37,
+        "current_goal": "Meditate",
+        "diligence": 90,
+        "greed": 59,
+        "honor": 47,
+        "loyalty": 57,
+        "pride": 88,
+        "temper": 18
+    },
+    "social": {
+        "contribution_points": 197,
+        "loyalty": 60,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_910231"
+}

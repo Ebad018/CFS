@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 4,
+            "purity": 0.5799999833106995
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 22,
+        "gender": "Male",
+        "given_name": "Lei",
+        "lifespan": 88,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 37,
+        "compassion": 11,
+        "courage": 79,
+        "curiosity": 19,
+        "current_goal": "Meditate",
+        "diligence": 71,
+        "greed": 26,
+        "honor": 83,
+        "loyalty": 45,
+        "pride": 75,
+        "temper": 84
+    },
+    "social": {
+        "contribution_points": 128,
+        "loyalty": 64,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_299801"
+}

@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.1200000047683716
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 5,
+            "purity": 0.6200000047683716
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 43,
+        "gender": "Male",
+        "given_name": "Huo",
+        "lifespan": 80,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 32,
+        "compassion": 14,
+        "courage": 10,
+        "curiosity": 29,
+        "current_goal": "Meditate",
+        "diligence": 66,
+        "greed": 17,
+        "honor": 100,
+        "loyalty": 33,
+        "pride": 59,
+        "temper": 57
+    },
+    "social": {
+        "contribution_points": 396,
+        "loyalty": 47,
+        "morality": 0,
+        "network": [],
+        "rank": "LEADER",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_866993"
+}

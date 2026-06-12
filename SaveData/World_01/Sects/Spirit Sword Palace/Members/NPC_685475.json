@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9599999785423279
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.5699999928474426
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 22,
+        "gender": "Male",
+        "given_name": "Chen",
+        "lifespan": 93,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 86,
+        "compassion": 7,
+        "courage": 54,
+        "curiosity": 98,
+        "current_goal": "Meditate",
+        "diligence": 77,
+        "greed": 86,
+        "honor": 63,
+        "loyalty": 59,
+        "pride": 75,
+        "temper": 9
+    },
+    "social": {
+        "contribution_points": 110,
+        "loyalty": 30,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_685475"
+}

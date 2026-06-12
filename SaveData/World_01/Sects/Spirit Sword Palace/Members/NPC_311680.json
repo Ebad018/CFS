@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9800000190734863
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 9,
+            "purity": 0.6200000047683716
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 25,
+        "gender": "Female",
+        "given_name": "Lan",
+        "lifespan": 116,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 91,
+        "compassion": 28,
+        "courage": 15,
+        "curiosity": 73,
+        "current_goal": "Meditate",
+        "diligence": 14,
+        "greed": 4,
+        "honor": 37,
+        "loyalty": 63,
+        "pride": 2,
+        "temper": 72
+    },
+    "social": {
+        "contribution_points": 273,
+        "loyalty": 45,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_311680"
+}

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9599999785423279
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 1,
+            "purity": 0.5299999713897705
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 53,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 115,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 61,
+        "compassion": 65,
+        "courage": 91,
+        "curiosity": 11,
+        "current_goal": "Meditate",
+        "diligence": 55,
+        "greed": 97,
+        "honor": 26,
+        "loyalty": 39,
+        "pride": 23,
+        "temper": 15
+    },
+    "social": {
+        "contribution_points": 251,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "CORE_DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_399005"
+}

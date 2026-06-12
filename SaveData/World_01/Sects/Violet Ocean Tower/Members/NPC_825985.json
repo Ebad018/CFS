@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 6,
+            "purity": 0.6600000262260437
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 16,
+        "gender": "Male",
+        "given_name": "Chen",
+        "lifespan": 116,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 5,
+        "compassion": 42,
+        "courage": 91,
+        "curiosity": 94,
+        "current_goal": "Meditate",
+        "diligence": 91,
+        "greed": 49,
+        "honor": 42,
+        "loyalty": 69,
+        "pride": 24,
+        "temper": 63
+    },
+    "social": {
+        "contribution_points": 29,
+        "loyalty": 47,
+        "morality": 0,
+        "network": [],
+        "rank": "ELDER",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_825985"
+}

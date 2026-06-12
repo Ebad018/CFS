@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9900000095367432
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 6,
+            "purity": 0.8799999952316284
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 54,
+        "gender": "Female",
+        "given_name": "Qing",
+        "lifespan": 89,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 58,
+        "compassion": 59,
+        "courage": 83,
+        "curiosity": 83,
+        "current_goal": "Meditate",
+        "diligence": 27,
+        "greed": 76,
+        "honor": 50,
+        "loyalty": 36,
+        "pride": 85,
+        "temper": 69
+    },
+    "social": {
+        "contribution_points": 175,
+        "loyalty": 68,
+        "morality": 0,
+        "network": [],
+        "rank": "GRAND_ELDER",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_451979"
+}

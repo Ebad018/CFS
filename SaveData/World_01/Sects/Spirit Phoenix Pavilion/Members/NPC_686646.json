@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.0299999713897705
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 1,
+            "purity": 0.9800000190734863
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 16,
+        "gender": "Female",
+        "given_name": "Xue",
+        "lifespan": 119,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 62,
+        "compassion": 65,
+        "courage": 80,
+        "curiosity": 81,
+        "current_goal": "Meditate",
+        "diligence": 31,
+        "greed": 61,
+        "honor": 9,
+        "loyalty": 38,
+        "pride": 31,
+        "temper": 18
+    },
+    "social": {
+        "contribution_points": 124,
+        "loyalty": 49,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_686646"
+}

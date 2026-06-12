@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8899999856948853
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 4,
+            "purity": 0.8399999737739563
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 66,
+        "gender": "Male",
+        "given_name": "Tao",
+        "lifespan": 116,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 87,
+        "compassion": 33,
+        "courage": 4,
+        "curiosity": 20,
+        "current_goal": "Meditate",
+        "diligence": 13,
+        "greed": 96,
+        "honor": 92,
+        "loyalty": 56,
+        "pride": 21,
+        "temper": 93
+    },
+    "social": {
+        "contribution_points": 196,
+        "loyalty": 40,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_125700"
+}

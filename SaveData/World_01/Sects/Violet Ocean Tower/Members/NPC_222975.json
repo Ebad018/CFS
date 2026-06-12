@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.159999966621399
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 3,
+            "purity": 0.5400000214576721
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 53,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 85,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 43,
+        "compassion": 38,
+        "courage": 6,
+        "curiosity": 58,
+        "current_goal": "Meditate",
+        "diligence": 62,
+        "greed": 74,
+        "honor": 52,
+        "loyalty": 59,
+        "pride": 2,
+        "temper": 25
+    },
+    "social": {
+        "contribution_points": 457,
+        "loyalty": 58,
+        "morality": 0,
+        "network": [],
+        "rank": "GRAND_ELDER",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_222975"
+}

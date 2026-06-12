@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.9099999666213989
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 7,
+            "purity": 0.9800000190734863
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 24,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 92,
+        "namesakes_meaning": "",
+        "surname": "Li",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 47,
+        "compassion": 87,
+        "courage": 6,
+        "curiosity": 19,
+        "current_goal": "Meditate",
+        "diligence": 47,
+        "greed": 53,
+        "honor": 34,
+        "loyalty": 52,
+        "pride": 31,
+        "temper": 100
+    },
+    "social": {
+        "contribution_points": 361,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_492992"
+}

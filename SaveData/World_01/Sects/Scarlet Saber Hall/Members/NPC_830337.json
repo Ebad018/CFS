@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 0.8500000238418579
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 6,
+            "purity": 0.8500000238418579
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 60,
+        "gender": "Female",
+        "given_name": "Yan",
+        "lifespan": 100,
+        "namesakes_meaning": "",
+        "surname": "Zhang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 32,
+        "compassion": 81,
+        "courage": 0,
+        "curiosity": 38,
+        "current_goal": "Meditate",
+        "diligence": 65,
+        "greed": 96,
+        "honor": 7,
+        "loyalty": 30,
+        "pride": 65,
+        "temper": 47
+    },
+    "social": {
+        "contribution_points": 430,
+        "loyalty": 51,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_830337"
+}

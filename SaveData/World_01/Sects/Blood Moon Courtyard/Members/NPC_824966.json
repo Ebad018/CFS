@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.2000000476837158
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 7,
+            "purity": 0.5799999833106995
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 32,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 83,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 48,
+        "compassion": 61,
+        "courage": 18,
+        "curiosity": 0,
+        "current_goal": "Meditate",
+        "diligence": 43,
+        "greed": 75,
+        "honor": 56,
+        "loyalty": 45,
+        "pride": 74,
+        "temper": 88
+    },
+    "social": {
+        "contribution_points": 478,
+        "loyalty": 33,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_824966"
+}

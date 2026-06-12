@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.090000033378601
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 7,
+            "purity": 0.800000011920929
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 51,
+        "gender": "Male",
+        "given_name": "Tao",
+        "lifespan": 111,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 37,
+        "compassion": 0,
+        "courage": 8,
+        "curiosity": 89,
+        "current_goal": "Meditate",
+        "diligence": 100,
+        "greed": 73,
+        "honor": 96,
+        "loyalty": 63,
+        "pride": 63,
+        "temper": 10
+    },
+    "social": {
+        "contribution_points": 2,
+        "loyalty": 32,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_835768"
+}

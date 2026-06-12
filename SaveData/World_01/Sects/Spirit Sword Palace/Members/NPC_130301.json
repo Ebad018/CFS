@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.1299999952316284
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 1,
+            "purity": 0.7699999809265137
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 43,
+        "gender": "Male",
+        "given_name": "Ming",
+        "lifespan": 83,
+        "namesakes_meaning": "",
+        "surname": "Ye",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 94,
+        "compassion": 59,
+        "courage": 76,
+        "curiosity": 17,
+        "current_goal": "Meditate",
+        "diligence": 53,
+        "greed": 10,
+        "honor": 82,
+        "loyalty": 36,
+        "pride": 68,
+        "temper": 25
+    },
+    "social": {
+        "contribution_points": 86,
+        "loyalty": 46,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_130301"
+}

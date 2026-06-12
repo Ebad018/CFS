@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.149999976158142
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 5,
+            "purity": 0.75
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 62,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 100,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 93,
+        "compassion": 41,
+        "courage": 33,
+        "curiosity": 19,
+        "current_goal": "Meditate",
+        "diligence": 87,
+        "greed": 60,
+        "honor": 60,
+        "loyalty": 70,
+        "pride": 57,
+        "temper": 64
+    },
+    "social": {
+        "contribution_points": 430,
+        "loyalty": 52,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_955505"
+}

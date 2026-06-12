@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8700000047683716
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 6,
+            "purity": 0.5099999904632568
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 29,
+        "gender": "Female",
+        "given_name": "Mei",
+        "lifespan": 115,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 58,
+        "compassion": 1,
+        "courage": 26,
+        "curiosity": 71,
+        "current_goal": "Meditate",
+        "diligence": 100,
+        "greed": 12,
+        "honor": 72,
+        "loyalty": 61,
+        "pride": 59,
+        "temper": 26
+    },
+    "social": {
+        "contribution_points": 128,
+        "loyalty": 55,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Phoenix Pavilion"
+    },
+    "uid": "NPC_915106"
+}

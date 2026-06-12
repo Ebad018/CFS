@@ -1,0 +1,67 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 100.0,
+        "mutations": [
+            "BURNING_BLOOD"
+        ],
+        "race_id": "RACE_02",
+        "strength_mod": 1.0199999809265137
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 4000,
+        "qi_max": 4000,
+        "realm": {
+            "major": "Golden Core",
+            "minor": 2,
+            "purity": 0.5199999809265137
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 57,
+        "gender": "Female",
+        "given_name": "Qing",
+        "lifespan": 117,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 53,
+        "compassion": 93,
+        "courage": 40,
+        "curiosity": 12,
+        "current_goal": "Meditate",
+        "diligence": 6,
+        "greed": 18,
+        "honor": 72,
+        "loyalty": 42,
+        "pride": 96,
+        "temper": 74
+    },
+    "social": {
+        "contribution_points": 78,
+        "loyalty": 32,
+        "morality": 0,
+        "network": [],
+        "rank": "GRAND_ELDER",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_536449"
+}

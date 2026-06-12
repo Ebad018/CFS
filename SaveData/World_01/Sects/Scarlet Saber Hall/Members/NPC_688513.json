@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.9300000071525574
+    },
+    "cultivation": {
+        "attribute": "Water",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 9,
+            "purity": 0.8700000047683716
+        },
+        "spirit_root_type": "Common Water"
+    },
+    "identity": {
+        "age": 22,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 80,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 15,
+        "compassion": 34,
+        "courage": 17,
+        "curiosity": 57,
+        "current_goal": "Meditate",
+        "diligence": 53,
+        "greed": 18,
+        "honor": 12,
+        "loyalty": 50,
+        "pride": 40,
+        "temper": 65
+    },
+    "social": {
+        "contribution_points": 392,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_688513"
+}

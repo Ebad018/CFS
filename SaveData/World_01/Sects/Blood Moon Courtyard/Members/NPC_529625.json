@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8600000143051147
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 2,
+            "purity": 0.6399999856948853
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 23,
+        "gender": "Female",
+        "given_name": "Hua",
+        "lifespan": 81,
+        "namesakes_meaning": "",
+        "surname": "Yang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 52,
+        "compassion": 19,
+        "courage": 75,
+        "curiosity": 71,
+        "current_goal": "Meditate",
+        "diligence": 44,
+        "greed": 20,
+        "honor": 81,
+        "loyalty": 61,
+        "pride": 46,
+        "temper": 3
+    },
+    "social": {
+        "contribution_points": 361,
+        "loyalty": 63,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_529625"
+}

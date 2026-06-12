@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.1399999856948853
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.6700000166893005
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 57,
+        "gender": "Male",
+        "given_name": "Huo",
+        "lifespan": 82,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 74,
+        "compassion": 69,
+        "courage": 52,
+        "curiosity": 12,
+        "current_goal": "Meditate",
+        "diligence": 1,
+        "greed": 5,
+        "honor": 95,
+        "loyalty": 42,
+        "pride": 29,
+        "temper": 31
+    },
+    "social": {
+        "contribution_points": 96,
+        "loyalty": 39,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_968942"
+}

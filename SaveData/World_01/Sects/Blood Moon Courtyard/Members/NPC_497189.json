@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 1,
+            "state": "",
+            "target_item": "",
+            "type": "WANDER"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.2000000476837158
+    },
+    "cultivation": {
+        "attribute": "Fire",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 6,
+            "purity": 0.5600000023841858
+        },
+        "spirit_root_type": "Common Fire"
+    },
+    "identity": {
+        "age": 57,
+        "gender": "Female",
+        "given_name": "Yue",
+        "lifespan": 94,
+        "namesakes_meaning": "",
+        "surname": "Wu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 27,
+        "compassion": 17,
+        "courage": 18,
+        "curiosity": 85,
+        "current_goal": "Meditate",
+        "diligence": 99,
+        "greed": 16,
+        "honor": 72,
+        "loyalty": 69,
+        "pride": 92,
+        "temper": 60
+    },
+    "social": {
+        "contribution_points": 337,
+        "loyalty": 58,
+        "morality": 0,
+        "network": [],
+        "rank": "INNER_DISCIPLE",
+        "sect_id": "Blood Moon Courtyard"
+    },
+    "uid": "NPC_497189"
+}

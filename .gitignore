@@ -1,0 +1,13 @@
+.vs/
+build/
+build2/
+out/
+x64/
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.recipe
+build_ninja/
+build_text/
+build*/

@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.5600000023841858
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 23,
+        "gender": "Female",
+        "given_name": "Yan",
+        "lifespan": 88,
+        "namesakes_meaning": "",
+        "surname": "Zhao",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 91,
+        "compassion": 96,
+        "courage": 66,
+        "curiosity": 78,
+        "current_goal": "Meditate",
+        "diligence": 80,
+        "greed": 38,
+        "honor": 81,
+        "loyalty": 50,
+        "pride": 22,
+        "temper": 100
+    },
+    "social": {
+        "contribution_points": 316,
+        "loyalty": 44,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_752708"
+}

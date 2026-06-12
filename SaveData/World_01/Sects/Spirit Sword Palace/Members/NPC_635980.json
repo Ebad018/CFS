@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8299999833106995
+    },
+    "cultivation": {
+        "attribute": "Metal",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 6,
+            "purity": 0.75
+        },
+        "spirit_root_type": "Common Metal"
+    },
+    "identity": {
+        "age": 26,
+        "gender": "Female",
+        "given_name": "Ling",
+        "lifespan": 93,
+        "namesakes_meaning": "",
+        "surname": "Chen",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 42,
+        "compassion": 15,
+        "courage": 2,
+        "curiosity": 94,
+        "current_goal": "Meditate",
+        "diligence": 44,
+        "greed": 94,
+        "honor": 93,
+        "loyalty": 39,
+        "pride": 38,
+        "temper": 19
+    },
+    "social": {
+        "contribution_points": 222,
+        "loyalty": 60,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Spirit Sword Palace"
+    },
+    "uid": "NPC_635980"
+}

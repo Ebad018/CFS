@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.0
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 9,
+            "purity": 0.8299999833106995
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 31,
+        "gender": "Male",
+        "given_name": "Jian",
+        "lifespan": 95,
+        "namesakes_meaning": "",
+        "surname": "Liu",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 50,
+        "compassion": 61,
+        "courage": 49,
+        "curiosity": 46,
+        "current_goal": "Meditate",
+        "diligence": 47,
+        "greed": 78,
+        "honor": 55,
+        "loyalty": 31,
+        "pride": 33,
+        "temper": 89
+    },
+    "social": {
+        "contribution_points": 63,
+        "loyalty": 61,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_538665"
+}

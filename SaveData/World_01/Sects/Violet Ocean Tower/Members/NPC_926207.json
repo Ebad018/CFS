@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 0.8100000023841858
+    },
+    "cultivation": {
+        "attribute": "Wood",
+        "known_methods": [],
+        "qi_current": 1000,
+        "qi_max": 1000,
+        "realm": {
+            "major": "Mortal",
+            "minor": 4,
+            "purity": 0.5600000023841858
+        },
+        "spirit_root_type": "Common Wood"
+    },
+    "identity": {
+        "age": 60,
+        "gender": "Female",
+        "given_name": "Lan",
+        "lifespan": 88,
+        "namesakes_meaning": "",
+        "surname": "Huang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 84,
+        "compassion": 93,
+        "courage": 17,
+        "curiosity": 95,
+        "current_goal": "Meditate",
+        "diligence": 96,
+        "greed": 51,
+        "honor": 100,
+        "loyalty": 32,
+        "pride": 63,
+        "temper": 73
+    },
+    "social": {
+        "contribution_points": 294,
+        "loyalty": 45,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Violet Ocean Tower"
+    },
+    "uid": "NPC_926207"
+}

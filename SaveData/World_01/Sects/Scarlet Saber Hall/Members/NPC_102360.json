@@ -1,0 +1,65 @@
+{
+    "ai_state": {
+        "active_goal": {
+            "priority": 10,
+            "state": "MEDITATING",
+            "target_item": "",
+            "type": "CULTIVATE"
+        },
+        "current_location_region": "",
+        "goal_queue": [],
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "biology": {
+        "fire_resist": 0.0,
+        "mutations": [],
+        "race_id": "RACE_01",
+        "strength_mod": 1.190000057220459
+    },
+    "cultivation": {
+        "attribute": "Earth",
+        "known_methods": [],
+        "qi_current": 2000,
+        "qi_max": 2000,
+        "realm": {
+            "major": "Qi Condensation",
+            "minor": 5,
+            "purity": 0.7200000286102295
+        },
+        "spirit_root_type": "Common Earth"
+    },
+    "identity": {
+        "age": 24,
+        "gender": "Male",
+        "given_name": "Lei",
+        "lifespan": 112,
+        "namesakes_meaning": "",
+        "surname": "Wang",
+        "title": ""
+    },
+    "last_update_tick": 0,
+    "personality": {
+        "ambition": 30,
+        "compassion": 9,
+        "courage": 47,
+        "curiosity": 19,
+        "current_goal": "Meditate",
+        "diligence": 72,
+        "greed": 54,
+        "honor": 70,
+        "loyalty": 61,
+        "pride": 43,
+        "temper": 39
+    },
+    "social": {
+        "contribution_points": 378,
+        "loyalty": 39,
+        "morality": 0,
+        "network": [],
+        "rank": "DISCIPLE",
+        "sect_id": "Scarlet Saber Hall"
+    },
+    "uid": "NPC_102360"
+}
